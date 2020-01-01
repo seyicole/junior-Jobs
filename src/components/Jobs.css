@@ -1,0 +1,30 @@
+li {
+		padding: 1rem 0rem;
+	    list-style: none;
+	    margin-left: -2.5rem;
+	}
+
+	div.card {
+		border-radius: 0rem
+	}
+
+ul {
+	margin-top: 5rem!important;
+}
+
+@media only screen and (min-width: 700px) {
+  /* For desktop: */
+	.container {
+    	max-width: 800px!important;
+	}
+}
+
+a {
+	color: #111!important;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none!important;
+}
+
