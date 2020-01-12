@@ -8,7 +8,7 @@ import { timeDifferenceForDate } from '../Utils';
 
 const Jobs = ({jobs, loading}) => {
 	if(loading){
-		return <div class="d-flex mx-auto justify-content-center align-content-*-center">
+		return <div class="d-flex spin mx-auto justify-content-center align-content-*-center">
                     <Spinner class="" animation="border" variant="info" role="status">
                       <span className="sr-only">Loading...</span>
                     </Spinner>

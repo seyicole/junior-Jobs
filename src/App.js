@@ -11,9 +11,9 @@ function App() {
   const [postsPerPage] = useState(10);
 
   useEffect (()=> {
-    const fetchPosts = ()=>{
+    const fetchPosts = async ()=>{
       setLoading(true)
-      fetch('https://obscure-sands-69987.herokuapp.com/api/v1/do-n0t-disturb/jobs/')
+     const res = await fetch('https://obscure-sands-69987.herokuapp.com/api/v1/do-n0t-disturb/jobs/')
       .then(res => res.json())
       .then(setJobs)
       setLoading(false)
