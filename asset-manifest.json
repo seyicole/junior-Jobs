@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/junior-Jobs/static/css/main.62a0af41.chunk.css",
+    "main.js": "/junior-Jobs/static/js/main.aaec58f7.chunk.js",
+    "main.js.map": "/junior-Jobs/static/js/main.aaec58f7.chunk.js.map",
+    "runtime-main.js": "/junior-Jobs/static/js/runtime-main.1da78500.js",
+    "runtime-main.js.map": "/junior-Jobs/static/js/runtime-main.1da78500.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/junior-Jobs/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.5b303814.chunk.js": "/junior-Jobs/static/js/2.5b303814.chunk.js",
+    "static/js/2.5b303814.chunk.js.map": "/junior-Jobs/static/js/2.5b303814.chunk.js.map",
+    "index.html": "/junior-Jobs/index.html",
+    "precache-manifest.2abafeeacf7b91e7c532192b262af00e.js": "/junior-Jobs/precache-manifest.2abafeeacf7b91e7c532192b262af00e.js",
+    "service-worker.js": "/junior-Jobs/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/junior-Jobs/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.62a0af41.chunk.css.map": "/junior-Jobs/static/css/main.62a0af41.chunk.css.map",
+    "static/js/2.5b303814.chunk.js.LICENSE": "/junior-Jobs/static/js/2.5b303814.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1da78500.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.5b303814.chunk.js",
+    "static/css/main.62a0af41.chunk.css",
+    "static/js/main.aaec58f7.chunk.js"
+  ]
+}
