@@ -14,8 +14,8 @@ function App() {
     const fetchPosts = async ()=>{
       setLoading(true)
      const res = await fetch('https://obscure-sands-69987.herokuapp.com/api/v1/do-n0t-disturb/jobs/')
-      .then(res => res.json())
-      .then(setJobs)
+      let jobList = await res.json()
+      setJobs(jobList)
       setLoading(false)
     }
     fetchPosts()
